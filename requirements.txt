@@ -1,0 +1,8 @@
+async-timeout==4.0.3
+Beaker==1.13.0
+bottle==0.12.25
+bottle-session==1.0
+dlib==19.24.2
+numpy==1.26.4
+opencv-python==4.9.0.80
+redis==5.0.4
